@@ -7,3 +7,7 @@ I use these notebooks during workshops and presentations to illustrate the ideas
 Feel free to reuse them, just mention the source. Thank you.
 
 If you want to contact me, drop me a line at <aleksander.molak@gmail.com>
+
+## Table of contents
+* 00 KL Divergence
+* 01 Softmax with temperature
