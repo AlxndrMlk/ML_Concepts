@@ -1,8 +1,8 @@
 # Machine Learning and Informtaion Theory Concepts
 
-This repo contains notebooks and materials related to various machine learning and information theory concepts. 
+💡 This repo contains notebooks and materials related to various machine learning and information theory concepts. 
 
-I use these notebooks during workshops and presentations to illustrate the ideas. 
+I use these notebooks during workshops and presentations to illustrate the ideas 
 
 Feel free to reuse them, just mention the source. Thank you.
 
